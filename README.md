@@ -10,7 +10,7 @@ $ pip2 install requests
 
 $ pip2 install mechanize
 
-$ git clone https://github.com/Rozak-bot/darkfb
+$ git clone https://github.com/daenghunter/darkfb
 
 $ cd darkfb
 
@@ -19,5 +19,7 @@ $ ls
 $ python2 dkfb
 
 
-Username: dark
-Password :fb
+••••••••••••••••••••••••••••••••••••••••••••••
+Username : daeng
+Password : vip
+••••••••••••••••••••••••••••••••••••••••••••••
